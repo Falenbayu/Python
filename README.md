@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zenfalen
-- 👀 I’m interested in Android DevOps
-- 🌱 I’m currently learning Java, CMS Wordpress, HTML, CSS, Kotlin, MySQL, PHP
+- 👋 Hi, I’m @Falenbayu
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning R Language, Pyton, SQL, HTML, CSS.
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me ...
       Email : falenbayu@gmail.com
