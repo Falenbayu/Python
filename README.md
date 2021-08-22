@@ -1,5 +1,5 @@
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/overview.svg">
+<img align='right' src = "https://github.com/falenbayu/github-stats-transparent/blob/output/generated/overview.svg">
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Falen🧑🏻
 
@@ -11,7 +11,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{falenbayu}/count.svg)
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/falenbayu/github-stats-transparent/blob/output/generated/languages.svg">
 
 <!-- ## ⭐ Popular Repositories
 
