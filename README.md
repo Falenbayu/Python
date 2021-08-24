@@ -4,7 +4,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Falen🧑🏻
 
 <p align="justify">
-  I am a student with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
+  I am a student with a Data Analyst specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Analyst and Data Scientiest.
 </p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
@@ -13,9 +13,11 @@
 
 <img align='right' src = "https://github.com/falenbayu/github-stats-transparent/blob/output/generated/languages.svg">
 
-<!-- ## ⭐ Popular Repositories
+ ## ⭐ Popular Repositories
 
-| 🎓 Courses | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
+| 🎓 Courses | [DQLab] [Data Analyst Career Track (Python)]
+
+<!--[Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
 |:--------|:--------------------|
 | ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
 | 📝  Articles | [Data Science Guide](https://github.com/myarist/Data-Science-Guide) · [Data Science Learning Path](https://github.com/myarist/Data-Science-Learning-Path) | 
