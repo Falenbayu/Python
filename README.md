@@ -11,8 +11,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{falenbayu}/count.svg)
 
-<img align='right' src = "https://github.com/falenbayu/github-stats-transparent/blob/output/generated/languages.svg">
-
  ## ⭐ Popular Repositories
 
 | 🎓 Courses | [DQLab] [Data Analyst Career Track (Python)]
@@ -24,7 +22,7 @@
 
 ## 📃 Latest Articles-->
 
-<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
+<!-- <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px"> -->
 
 <!-- BLOG-POST-LIST:START -->
 <!--- [Matematika Diskrit : Kombinatorial](https://www.belajarstatistics.com/blog/2021/08/22/kombinatorial/)
