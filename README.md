@@ -1,4 +1,4 @@
-<!--<img align='right' src = "https://github.com/falenbayu/github-stats-transparent/blob/output/generated/overview.svg">-->]
+<!--<img align='right' src = "https://github.com/falenbayu/github-stats-transparent/blob/output/generated/overview.svg">-->
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Falen Bayu🧑🏻
 
 <p align="justify">
