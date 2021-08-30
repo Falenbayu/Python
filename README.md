@@ -12,7 +12,7 @@
  ## ⭐ Popular Repositories
 
 | 🎓 Courses | [DQLab] [Data Analyst Career Track (Python)]
-
+1. Python Fundamental for Data Science (https://academy.dqlab.id/certificate/pdf/DQLABINTP1CWBBLL/NONTRACK)
 <!--[Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
 |:--------|:--------------------|
 | ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
