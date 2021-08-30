@@ -1,6 +1,8 @@
 <!--<img align='right' src = "https://github.com/falenbayu/github-stats-transparent/blob/output/generated/overview.svg">-->
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Falen Bayu🧑🏻
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/LHZyixOnHwDDy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy">via GIPHY</a></p>
+
 <p align="justify">
   I am a student with a Data Analyst specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Analyst and Data Scientiest.
 </p>
